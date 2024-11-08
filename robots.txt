@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mister-hope.github.io/blog-vuepress/sitemap.xml
+Sitemap: https://whiteboat712.github.io/blog-vuepress/blog-vuepress/sitemap.xml
