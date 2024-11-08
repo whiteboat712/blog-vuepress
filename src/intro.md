@@ -2,8 +2,9 @@
 title: 关于
 date: 2022-02-09 20:39:33
 description: 关于我？
-icon: circle-info
-cover: /assets/images/cover3.jpg
+icon: iconfont icon-info
+avatar: avatar.jpg
+welcome: 一个普通的计算机狗
 ---
 
 

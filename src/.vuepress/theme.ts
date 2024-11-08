@@ -12,7 +12,13 @@ export default hopeTheme({
     email: "873904524@qq.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: [
+    "fontawesome",
+    "fontawesome-with-brands",
+    "iconify",
+    "https://at.alicdn.com/t/c/font_2410206_5vb9zlyghj.css",
+    "https://at.alicdn.com/t/c/font_3861247_yn9taeyq2sc.css",
+  ],
   darkmode: "toggle",
   logo: "logo1.svg",
 
@@ -130,7 +136,20 @@ export default hopeTheme({
     // },
 
     components: {
-      components: ["Badge", "VPCard", "SiteInfo"],
+      components: [
+        "ArtPlayer",
+        "Badge",
+        "BiliBili",
+        "CodePen",
+        "PDF",
+        "Share",
+        "SiteInfo",
+        "StackBlitz",
+        "VPBanner",
+        "VPCard",
+        "VidStack",
+        "XiGua",
+      ],
     },
 
     // These features are enabled for demo, only preserve features you need here
