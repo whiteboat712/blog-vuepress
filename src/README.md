@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: 主页
+heroImage: logo1.svg
+heroText: StarVoice
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 最美的是哪些不太完美的东西。
 projects:
   - icon: project
     name: 项目名称

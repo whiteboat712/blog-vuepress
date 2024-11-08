@@ -1,0 +1,20 @@
+# 站点名称
+title: 星音的博客
+# 站点描述
+description: 星音的博客vuepress
+# 输出目录
+dest: ./dist
+# 设置根目录语言
+locales:
+  /:
+    lang: zh-CN
+# 使用本主题
+theme: hope
+# 主题配置
+themeConfig:
+  # 导航栏图标
+  logo: /logo.svg
+  # 请设置为你的部署站点
+  hostname: https://whiteboat712.github.io/blog-vuepress/
+  # 请改成你的名字
+  author: 星音

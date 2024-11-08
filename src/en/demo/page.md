@@ -9,7 +9,7 @@ order: 3
 author: Ms.Hope
 # Set writing time
 date: 2020-01-01
-# A page can have multiple categories
+# A page can have multiple category
 category:
   - Guide
 # A page can have multiple tags
