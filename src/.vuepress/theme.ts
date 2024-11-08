@@ -126,7 +126,7 @@ export default hopeTheme({
   },
 
   // enable it to preview all changes in time
-  hotReload: true,
+  // hotReload: true,
 
   plugins: {
     blog: true,
@@ -215,10 +215,13 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+
     searchPro: {
       autoSuggestions: true,
       indexContent: true,
-    }
+    },
+
+    photoSwipe: true,
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
