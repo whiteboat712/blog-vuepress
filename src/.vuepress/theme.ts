@@ -13,7 +13,7 @@ export default hopeTheme({
   },
 
   iconAssets: "fontawesome-with-brands",
-
+  darkmode: "toggle",
   logo: "logo1.svg",
 
   repo: "https://github.com/whiteboat712/blog-vuepress",
@@ -86,11 +86,6 @@ export default hopeTheme({
 
       displayFooter: true,
 
-      blog: {
-        description: "一个前端开发者",
-        intro: "/zh/intro.html",
-      },
-
       // page meta
       metaLocales: {
         editLink: "在 GitHub 上编辑此页",
@@ -106,11 +101,6 @@ export default hopeTheme({
       footer: "Default footer",
 
       displayFooter: true,
-
-      blog: {
-        description: "A FrontEnd programmer",
-        intro: "/intro.html",
-      },
 
       metaLocales: {
         editLink: "Edit this page on GitHub",

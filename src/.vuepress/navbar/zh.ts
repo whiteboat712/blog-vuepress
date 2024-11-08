@@ -8,7 +8,6 @@ export const zhNavbar = navbar([
     link: "/posts/"
   },
   "/intro",
-  "/demo/",
   {
     text: "V2 文档",
     icon: "book",
